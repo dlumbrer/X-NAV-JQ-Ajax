@@ -1,0 +1,2 @@
+<strong style="color:red">Has pulsado el botón y me he añadido con ajax</strong>
+<p>Pd: Si me cambias el contenido en el txt (text2.txt) y vuelves a pulsar, ajax hará que cambie en directo!!!!!</p>
